@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\abel\downloads\algorithm_termproject-master\algorithm_termproject\maze.h(664): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+main.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+  Algorithm_TermProject.vcxproj -> C:\Users\Abel\Downloads\Algorithm_TermProject-master\Debug\Algorithm_TermProject.exe
+  Algorithm_TermProject.vcxproj -> C:\Users\Abel\Downloads\Algorithm_TermProject-master\Debug\Algorithm_TermProject.pdb (Full PDB)
